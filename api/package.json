@@ -37,7 +37,7 @@
     "request": "^2.88.2",
     "screenfull": "^3.3.2",
     "slugify": "^1.4.4",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "socket.io-file": "^2.0.14",
     "socket.io-file-client": "^2.0.12",
     "socket.io.users": "^2.0.2",
